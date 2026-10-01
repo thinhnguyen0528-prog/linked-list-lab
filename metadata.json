@@ -1,0 +1,6 @@
+{
+  "name": "Linked List Lab",
+  "description": "Nền tảng học Danh sách liên kết trực quan tương tác bằng cách nhìn, thao tác và hiểu bản chất con trỏ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
